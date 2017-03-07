@@ -1,0 +1,70 @@
+﻿VS filter: testpath:TestAssembly:ASOSTestSuite/TestClass:ASOSTestSuite.Features.UseTheWebsiteToFindProductsInTheAustralianStoreFeature/TestMethod:SearchForTShirtsInAustralianStore
+Discovering target: Default
+Discovering tests from assembly: C:\MY_DRIVE\MY_WORK\Selenium_WebDriver_Tutorials\ASOSTestSuite\ASOSTestSuite\bin\Debug\ASOSTestSuite.dll
+Appdomain Disposed
+Test Suite Dump
+#0: Unnamed project/ - 
+#1: Default - 
+#3: ASOSTestSuite - 
+#6: ASOSTestSuite.Features.UseTheWebsiteToFindProductsInTheAustralianStoreFeature - 
+#7: SearchForTShirtsInAustralianStore - TestAssembly:ASOSTestSuite/TestClass:ASOSTestSuite.Features.UseTheWebsiteToFindProductsInTheAustralianStoreFeature/TestMethod:SearchForTShirtsInAustralianStore
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: testitem #7 from normal test queue 
+Thread#0:Scheduler: considering testitem #7 for thread
+Thread#0:Scheduler: using testitem #7 for thread
+Thread#0:Scheduler: Test #7 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for ASOSTestSuite, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\chammi\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.5.2\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #7/0 is started on thread #0
+Thread#0:T:When I search for yellow t shirts in the Australian store
+Thread#0:T:-> error: unknown error: cannot focus element
+Thread#0:T:  (Session info: chrome=56.0.2924.87)
+Thread#0:T:  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Windows NT 6.1.7601 SP1 x86_64)
+Thread#0:T:Then I should see some yellow t shirts
+Thread#0:T:-> skipped because of previous errors
+Thread#0:Scheduler: reschedule tests for testitem #0
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: dequeuing a rescheduled testitem: #7
+Thread#0:Scheduler: considering testitem #7 for thread
+Thread#0:Scheduler: using testitem #7 for thread
+Thread#0:Scheduler: Test #7 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #7/0 is finished on thread #0 as Failed within 11.4196532 seconds
+Thread#0: Test #7/1 is started on thread #0
+Thread#0:T:When I search for yellow t shirts in the Australian store
+Thread#0:T:-> error: unknown error: cannot focus element
+Thread#0:T:  (Session info: chrome=56.0.2924.87)
+Thread#0:T:  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Windows NT 6.1.7601 SP1 x86_64)
+Thread#0:T:Then I should see some yellow t shirts
+Thread#0:T:-> skipped because of previous errors
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: dequeuing a rescheduled testitem: #7
+Thread#0:Scheduler: considering testitem #7 for thread
+Thread#0:Scheduler: using testitem #7 for thread
+Thread#0:Scheduler: Test #7 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #7/1 is finished on thread #0 as Failed within 18.4520554 seconds
+Thread#0: Test #7/2 is started on thread #0
+Thread#0:T:When I search for yellow t shirts in the Australian store
+Thread#0:T:-> error: unknown error: cannot focus element
+Thread#0:T:  (Session info: chrome=56.0.2924.87)
+Thread#0:T:  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Windows NT 6.1.7601 SP1 x86_64)
+Thread#0:T:Then I should see some yellow t shirts
+Thread#0:T:-> skipped because of previous errors
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread 
+Thread#0: Test #7/2 is finished on thread #0 as Failed within 20.3961665 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1 (test executions: 3)
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 1

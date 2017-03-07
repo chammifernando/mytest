@@ -1,0 +1,80 @@
+﻿VS filter: testpath:TestAssembly:ASOSTestSuite/TestClass:ASOSTestSuite.Features.UseTheWebsiteToChangeHowSearchResultsAreDisplayedFeature/TestMethod:DisplaySearchResultsIn4Columns
+Discovering target: Default
+Discovering tests from assembly: C:\MY_DRIVE\MY_WORK\Selenium_WebDriver_Tutorials\ASOSTestSuite\ASOSTestSuite\bin\Debug\ASOSTestSuite.dll
+Appdomain Disposed
+Test Suite Dump
+#0: Unnamed project/ - 
+#1: Default - 
+#3: ASOSTestSuite - 
+#4: ASOSTestSuite.Features.UseTheWebsiteToChangeHowSearchResultsAreDisplayedFeature - 
+#5: DisplaySearchResultsIn4Columns - TestAssembly:ASOSTestSuite/TestClass:ASOSTestSuite.Features.UseTheWebsiteToChangeHowSearchResultsAreDisplayedFeature/TestMethod:DisplaySearchResultsIn4Columns
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: testitem #5 from normal test queue 
+Thread#0:Scheduler: considering testitem #5 for thread
+Thread#0:Scheduler: using testitem #5 for thread
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for ASOSTestSuite, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\chammi\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.5.2\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #5/0 is started on thread #0
+Thread#0:T:Given I have searched for yellows t shirts on the Australian store
+Thread#0:T:-> done: UseTheWebsiteToChangeHowSearchResultsAreDisplayedSteps.GivenIHaveSearchedForYellowsTShirtsOnTheAustralianStore() (19.8s)
+Thread#0:T:And I have some yellow t shirts displayed
+Thread#0:T:-> done: UseTheWebsiteToChangeHowSearchResultsAreDisplayedSteps.GivenIHaveSomeYellowTShirtsDisplayed() (0.1s)
+Thread#0:T:When I organize them in four columns
+Thread#0:T:-> done: UseTheWebsiteToChangeHowSearchResultsAreDisplayedSteps.WhenIOrganizeThemInFourColumns() (0.1s)
+Thread#0:T:Then I should see some yellow t shirts organized in four columns
+Thread#0:T:-> error:   Expected: True
+Thread#0:T:  But was:  False
+Thread#0:Scheduler: reschedule tests for testitem #0
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+Thread#0:Scheduler: considering testitem #5 for thread
+Thread#0:Scheduler: using testitem #5 for thread
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #5/0 is finished on thread #0 as Failed within 20.369165 seconds
+Thread#0: Test #5/1 is started on thread #0
+Thread#0:T:Given I have searched for yellows t shirts on the Australian store
+Thread#0:T:-> error: A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:54756/session/804ea4e83162905fd7f7518e8d2fb9d7/element. The status of the exception was ReceiveFailure, and the message was: The underlying connection was closed: An unexpected error occurred on a receive.
+Thread#0:T:And I have some yellow t shirts displayed
+Thread#0:T:-> skipped because of previous errors
+Thread#0:T:When I organize them in four columns
+Thread#0:T:-> skipped because of previous errors
+Thread#0:T:Then I should see some yellow t shirts organized in four columns
+Thread#0:T:-> skipped because of previous errors
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+Thread#0:Scheduler: considering testitem #5 for thread
+Thread#0:Scheduler: using testitem #5 for thread
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #5/1 is finished on thread #0 as Failed within 9.0655185 seconds
+Thread#0: Test #5/2 is started on thread #0
+Thread#0:T:Given I have searched for yellows t shirts on the Australian store
+Thread#0:T:-> error: no such window: target window already closed
+Thread#0:T:from unknown error: web view not found
+Thread#0:T:  (Session info: chrome=56.0.2924.87)
+Thread#0:T:  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Windows NT 6.1.7601 SP1 x86_64)
+Thread#0:T:And I have some yellow t shirts displayed
+Thread#0:T:-> skipped because of previous errors
+Thread#0:T:When I organize them in four columns
+Thread#0:T:-> skipped because of previous errors
+Thread#0:T:Then I should see some yellow t shirts organized in four columns
+Thread#0:T:-> skipped because of previous errors
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread 
+Thread#0: Test #5/2 is finished on thread #0 as Failed within 3.7092121 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1 (test executions: 3)
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 1

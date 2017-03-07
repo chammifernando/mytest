@@ -1,0 +1,15 @@
+C:\MY_DRIVE\MY_WORK\Selenium_WebDriver_Tutorials\ASOSTestSuite\ASOSTestSuite\bin\Debug\ASOSTestSuite.dll.config
+C:\MY_DRIVE\MY_WORK\Selenium_WebDriver_Tutorials\ASOSTestSuite\ASOSTestSuite\bin\Debug\ASOSTestSuite.dll
+C:\MY_DRIVE\MY_WORK\Selenium_WebDriver_Tutorials\ASOSTestSuite\ASOSTestSuite\bin\Debug\ASOSTestSuite.pdb
+C:\MY_DRIVE\MY_WORK\Selenium_WebDriver_Tutorials\ASOSTestSuite\ASOSTestSuite\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\MY_DRIVE\MY_WORK\Selenium_WebDriver_Tutorials\ASOSTestSuite\ASOSTestSuite\bin\Debug\nunit.framework.dll
+C:\MY_DRIVE\MY_WORK\Selenium_WebDriver_Tutorials\ASOSTestSuite\ASOSTestSuite\bin\Debug\TechTalk.SpecFlow.dll
+C:\MY_DRIVE\MY_WORK\Selenium_WebDriver_Tutorials\ASOSTestSuite\ASOSTestSuite\bin\Debug\TechTalk.SpecRun.dll
+C:\MY_DRIVE\MY_WORK\Selenium_WebDriver_Tutorials\ASOSTestSuite\ASOSTestSuite\bin\Debug\WebDriver.dll
+C:\MY_DRIVE\MY_WORK\Selenium_WebDriver_Tutorials\ASOSTestSuite\ASOSTestSuite\bin\Debug\WebDriver.Support.dll
+C:\MY_DRIVE\MY_WORK\Selenium_WebDriver_Tutorials\ASOSTestSuite\ASOSTestSuite\bin\Debug\nunit.framework.xml
+C:\MY_DRIVE\MY_WORK\Selenium_WebDriver_Tutorials\ASOSTestSuite\ASOSTestSuite\bin\Debug\WebDriver.xml
+C:\MY_DRIVE\MY_WORK\Selenium_WebDriver_Tutorials\ASOSTestSuite\ASOSTestSuite\bin\Debug\WebDriver.Support.xml
+C:\MY_DRIVE\MY_WORK\Selenium_WebDriver_Tutorials\ASOSTestSuite\ASOSTestSuite\obj\Debug\ASOSTestSuite.csprojResolveAssemblyReference.cache
+C:\MY_DRIVE\MY_WORK\Selenium_WebDriver_Tutorials\ASOSTestSuite\ASOSTestSuite\obj\Debug\ASOSTestSuite.dll
+C:\MY_DRIVE\MY_WORK\Selenium_WebDriver_Tutorials\ASOSTestSuite\ASOSTestSuite\obj\Debug\ASOSTestSuite.pdb

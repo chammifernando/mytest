@@ -1,0 +1,73 @@
+﻿VS filter: testpath:TestAssembly:ASOSTestSuite/TestClass:ASOSTestSuite.Features.UseTheWebsiteToFindShirtsFeature/TestMethod:SearchForTShirts
+Discovering target: Default
+Discovering tests from assembly: C:\MY_DRIVE\MY_WORK\Selenium_WebDriver_Tutorials\ASOSTestSuite\ASOSTestSuite\bin\Debug\ASOSTestSuite.dll
+Appdomain Disposed
+Test Suite Dump
+#0: Unnamed project/ - 
+#1: Default - 
+#3: ASOSTestSuite - 
+#4: ASOSTestSuite.Features.UseTheWebsiteToFindShirtsFeature - 
+#5: SearchForTShirts - TestAssembly:ASOSTestSuite/TestClass:ASOSTestSuite.Features.UseTheWebsiteToFindShirtsFeature/TestMethod:SearchForTShirts
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: testitem #5 from normal test queue 
+Thread#0:Scheduler: considering testitem #5 for thread
+Thread#0:Scheduler: using testitem #5 for thread
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for ASOSTestSuite, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\chammi\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.5.2\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #5/0 is started on thread #0
+Thread#0:T:Given I want to order a shirt
+Thread#0:T:-> done: UseTheWebsiteToFindShirtsSteps.GivenIWantToOrderAShirt() (7.7s)
+Thread#0:T:When I search for "purple t shirts"
+Thread#0:T:-> done: UseTheWebsiteToFindShirtsSteps.WhenISearchFor("purple t shirts") (9.6s)
+Thread#0:T:Then I should see some purple t shirts
+Thread#0:T:-> error:   Expected: True
+Thread#0:T:  But was:  False
+Thread#0:Scheduler: reschedule tests for testitem #0
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+Thread#0:Scheduler: considering testitem #5 for thread
+Thread#0:Scheduler: using testitem #5 for thread
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #5/0 is finished on thread #0 as Failed within 17.6220079 seconds
+Thread#0: Test #5/1 is started on thread #0
+Thread#0:T:Given I want to order a shirt
+Thread#0:T:-> done: UseTheWebsiteToFindShirtsSteps.GivenIWantToOrderAShirt() (10.4s)
+Thread#0:T:When I search for "purple t shirts"
+Thread#0:T:-> done: UseTheWebsiteToFindShirtsSteps.WhenISearchFor("purple t shirts") (12.4s)
+Thread#0:T:Then I should see some purple t shirts
+Thread#0:T:-> error:   Expected: True
+Thread#0:T:  But was:  False
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+Thread#0:Scheduler: considering testitem #5 for thread
+Thread#0:Scheduler: using testitem #5 for thread
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #5/1 is finished on thread #0 as Failed within 22.7803029 seconds
+Thread#0: Test #5/2 is started on thread #0
+Thread#0:T:Given I want to order a shirt
+Thread#0:T:-> done: UseTheWebsiteToFindShirtsSteps.GivenIWantToOrderAShirt() (21.5s)
+Thread#0:T:When I search for "purple t shirts"
+Thread#0:T:-> done: UseTheWebsiteToFindShirtsSteps.WhenISearchFor("purple t shirts") (11.7s)
+Thread#0:T:Then I should see some purple t shirts
+Thread#0:T:-> error:   Expected: True
+Thread#0:T:  But was:  False
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread 
+Thread#0: Test #5/2 is finished on thread #0 as Failed within 33.1778977 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1 (test executions: 3)
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 1
